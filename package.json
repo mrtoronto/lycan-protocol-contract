@@ -1,0 +1,22 @@
+{
+  "name": "ronin_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@truffle/hdwallet-provider": "^2.0.14",
+    "erc721a": "^4.2.2",
+    "hardhat": "^2.11.0",
+    "keccak256": "^1.0.6",
+    "merkletreejs": "^0.2.32",
+    "truffle-plugin-verify": "^0.5.28",
+    "web3": "^1.7.5"
+  }
+}
